@@ -1,0 +1,19 @@
+MENÚ DIGITAL LA OFICINA — VERSIÓN LIMPIA
+
+Correcciones:
+- Se eliminaron las subcarpetas innecesarias.
+- La primera imagen se precarga antes de mostrarse.
+- Aparece “Cargando menú…” mientras carga.
+- Las demás páginas se precargan en segundo plano.
+- Se añadió transición suave entre páginas.
+
+Para probar:
+1. Descomprime el ZIP.
+2. Abre index.html.
+
+
+VERSIÓN 1.1:
+- Iconos SVG nítidos para WhatsApp, Facebook, ubicación y llamada.
+- Colores reconocibles por servicio.
+- Botones más compactos y modernos.
+- Efectos suaves al pasar el cursor, enfocar y presionar.
